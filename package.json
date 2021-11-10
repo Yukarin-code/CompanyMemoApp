@@ -1,5 +1,5 @@
 {
-  "name": "CompanyMemoApp",
+  "name": "companymemoapp",
   "version": "1.0.0",
   "description": "* 会社用の備忘録メモです。\r * 本ProjectはNode.jsを利用しています。\r * MarkDownにて記載可能なメモ機能になっています。",
   "main": "app.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yukarin-code/CompanyMemoApp/issues"
   },
-  "homepage": "https://github.com/Yukarin-code/CompanyMemoApp#readme"
+  "homepage": "https://github.com/Yukarin-code/CompanyMemoApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
